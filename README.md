@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥅 My future goal is to create a complete mobile application to aid the average family in day to day life.<br>😻 I'm currently working on a chat site (https://monstr.ofneill.com).<br>🎸 In my free time, I play guitar.
+🥅 My future goal is to become a DevOps engineer, and lead a development team.<br>😻 I'm currently working on an AI powered platform to automate posting for the average creator (https://dev.reeliciousai.com).<br>🎸 In my free time, I play guitar.
 
 
 ## 🌐 Socials:
